@@ -1,6 +1,7 @@
 # Sistem Operasi UASP
 Persiapan Ujian Akhir Semester Mata Kuliah Sistem Operasi (Praktikum)
 
+## Materi
 [Pekan 8 - Perintah Dasar](https://github.com/auriza/os-lab/blob/master/08-intro-cli.md)
 
 [Pekan 9.1 - File](https://github.com/auriza/os-lab/blob/master/09-file.md)
@@ -17,4 +18,5 @@ Persiapan Ujian Akhir Semester Mata Kuliah Sistem Operasi (Praktikum)
 
 [Extras](https://github.com/auriza/os-lab/blob/master/14-misc.md)
 
-[Contoh Soal UASP](contohsoal.md)
+## Contoh Soal
+[Contoh Soal UASP Tahun Lalu](contohsoal.md)
