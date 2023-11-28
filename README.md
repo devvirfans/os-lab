@@ -18,7 +18,9 @@ Persiapan Ujian Akhir Semester Mata Kuliah Sistem Operasi (Praktikum)
 
 [Extras](https://github.com/auriza/os-lab/blob/master/14-misc.md)
 
-## Contoh Soal
+## The Big Guns
 [Contoh Soal UASP Tahun Lalu](contohsoal.md)
 
 [Contoh Soal UASP Tahun Lalu 2](contohsoal2.md)
+
+[Kisi-Kisi UASP](kisikisiprak.md)
