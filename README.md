@@ -17,4 +17,4 @@ Persiapan Ujian Akhir Semester Mata Kuliah Sistem Operasi (Praktikum)
 
 [Extras](https://github.com/auriza/os-lab/blob/master/14-misc.md)
 
-[Contoh Soal UASP]
+[Contoh Soal UASP](contohsoal.md)
