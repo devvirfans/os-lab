@@ -1,7 +1,7 @@
 ## Pindah ke direktori home anda
 Recall that ~ stands for your home directory
 ```bash
-cd~
+cd ~
 ```
 ## Buat satu folder kosong 'test'
 ```bash
