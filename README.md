@@ -23,4 +23,4 @@ Persiapan Ujian Akhir Semester Mata Kuliah Sistem Operasi (Praktikum)
 
 [Contoh Soal UASP Tahun Lalu 2](contohsoal2.md)
 
-[Kisi-Kisi UASP](kisikisiprak.md)
+[Kisi-Kisi UASP](KisiKisiPrak.md)
